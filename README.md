@@ -31,6 +31,6 @@ Figure 4 available at https://journals.plos.org/plosone/article/figure?id=10.137
 
 R code curfew-january.R uses data file sp-pos-quot-dep-2021-01-27-19h20.csv to generate input used in particular for the figures in the preprint
 
-- This repository also contains data and R code to generate animated graphs used for dissemination in a festival (see https://festivaljeudeloie.fr/projet/pouvoir-et-vouloir-savoir-en-periode-dincertitude-la-dynamique-dune-pandemie/):
+- This repository also contains data and R code to generate animated graphs used for dissemination in a science festival with general audience (see https://festivaljeudeloie.fr/projet/pouvoir-et-vouloir-savoir-en-periode-dincertitude-la-dynamique-dune-pandemie/):
 
 R code Animated-graphs-France.only.R uses data file sp-pos-quot-fra-2021-03-10-17h20.csv to generate daily departemental maps of the Acceleration Index in France
