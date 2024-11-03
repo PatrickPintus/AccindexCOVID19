@@ -26,3 +26,7 @@ R code acceleration-index.R generates input used in particular for
 Figure 3 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0281943.g003
 
 Figure 4 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0281943.g004
+
+This repository also contains data and R codes to accompany MedRXiv preprint available at https://www.medrxiv.org/content/10.1101/2020.11.11.20230243v1 and to replicate the main results:
+
+R code curfew-january.R uses data file sp-pos-quot-dep-2021-01-27-19h20.csv to generate input used in particular for the figures in the preprint
