@@ -1,7 +1,7 @@
 # AccindexCOVID19
 The Acceleration Index is a novel indicator that takes into account diagnostic tests to track accurately the dynamics of epidemics 
 
-R codes to accompany two papers published in PLoS ONE (Open Access academic journal): 
+R codes to accompany two papers published in PLoS ONE (Open Access academic journal) and replicate main results: 
 
 (1) https://doi.org/10.1371/journal.pone.0252443 in which Acceleration Index is shown to take into account time-varying tests and is applied to French data
 
