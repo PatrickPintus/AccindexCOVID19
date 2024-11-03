@@ -9,13 +9,15 @@ This repository contains data and R codes to accompany two papers published in P
 
 R codes for (1):
 
-XXX replicates Figure 3 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0252443.g003
+R code Figs-Covid-France-departement.2.2.R uses data file sp-pos-quot-dep-2021-04-01-18h20.csv to generate data used in particular in 
 
-XXX replicates Figure 4 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0252443.g004
+Figure 3 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0252443.g003
 
-XXX replicates Figure 5 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0252443.g005
+Figure 4 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0252443.g004
 
-XXX replicates Figure 7 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0252443.g007
+Figure 5 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0252443.g005
+
+Figure 7 available at https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0252443.g007
 
 R codes for (2):
 
