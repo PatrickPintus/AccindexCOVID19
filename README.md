@@ -1,5 +1,5 @@
 # AccindexCOVID19
-The Acceleration Index is a novel indicator that takes into account diagnostic tests so as to track accurately the dynamics of epidemics, so as to help guide public health policies and to inform health specialists and the general population.
+The Acceleration Index is a novel indicator that takes into account diagnostic tests to track accurately the dynamics of epidemics, hence helping to guide public health policies and to better inform health specialists and the general population.
 
 This repository contains data and R codes to accompany two papers published in PLoS ONE (Open Access academic journal) and to replicate their main results: 
 
